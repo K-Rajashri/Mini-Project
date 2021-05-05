@@ -1,2 +1,3 @@
 # Mini-Project
-This repository is my mini project
+This repository is Image Classification mini project.
+
