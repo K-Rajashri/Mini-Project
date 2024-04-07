@@ -1,3 +1,3 @@
 # Mini-Project
-This repository is Image Classification mini project.
+This repository is Disease detection using Image recognition 
 
